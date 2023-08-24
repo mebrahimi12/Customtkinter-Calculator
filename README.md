@@ -14,6 +14,3 @@ This is a simple calculator app built with Python and the customtkinter module. 
 - customtkinter module
 
 
-## Customization
-
-The app uses customtkinter for interface design. The colors, fonts, sizes etc can be easily customized by modifying the corresponding customtkinter parameters.# Customtkinter-Calculator
